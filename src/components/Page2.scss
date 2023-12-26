@@ -1,0 +1,31 @@
+.page2{
+    width: 100%;
+    background-color: 151519;
+    background-color: #151519;
+    height: 200px;
+   margin-top: 560px;
+    position: absolute;
+    margin-bottom: 0px;
+    z-index: 90;
+    border-bottom:1px solid #515258;
+    display: flex;
+}
+.back1{
+   width: 50%;
+   height: 100%;
+   border-right:1px solid #515258 ;
+   border-bottom:1px solid #515258;
+   color:#A9ABB5 ;
+   text-align: left;
+   display: flex;
+   flex-direction: column; 
+   justify-content: flex-end; 
+   padding: 10px;
+   text-align: left;
+   font-size: 20px;
+   margin-bottom: 0px;
+   
+}
+#text-back2{
+padding-left: 85%;
+}

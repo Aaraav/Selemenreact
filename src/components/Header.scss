@@ -1,0 +1,40 @@
+.nav{
+  background-color:transparent;
+  margin-top: 0;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  
+  align-items: center;
+  position: fixed;
+  z-index: 100000000;
+
+ 
+}
+.nav img{
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+  background-color: transparent;
+}
+.nav p{
+  color:#A9A68D;
+  margin-left: 20px;
+  background-color: transparent;
+}
+  
+
+.nav button{
+margin-left: 76%;
+color:#A9A68D;
+width: 150px;
+padding: 8px;
+border-radius: 50px;
+border:1px solid #A9A68D;
+
+}
+.nav button:hover{
+  background-color: #333338;
+  color: white;
+}
+
